@@ -1,7 +1,7 @@
 +++
 date = "2016-09-11T11:58:00+10:00"
 tags = ["ACI"]
-title = "cisco aci moquery filter operators"
+title = "Cisco ACI: moquery filter operators"
 aliases = [
 	"/2016/09/11/cisco-aci-moquery-filter-operators/",
 	"/post/cisco-aci-moquery-filter-operators/"
