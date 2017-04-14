@@ -1,0 +1,20 @@
+baseurl = "https://blog.joshuamorgan.com.au/"
+languageCode = "en"
+title = "Joshua Morgan's Blog"
+theme = "hugo-theme-cactus-plus"
+
+[params]
+name = "Joshua Morgan's Blog"
+description = "Blah"
+bio = "Blah"
+twitter = "joshuamorgan"
+enableRSS = true
+
+iconFont = "font-awesome"
+socialIconStyle = "circle"
+
+customCSS = ["css/fixes.css"]
+
+[social]
+twitter-square = "https://twitter.com/joshuamorgan"
+github-square = "https://github.com/joshuapmorgan"
